@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56843566-8636-4275-941f-1f2fdb834d1e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design.css" afterPath="$PROJECT_DIR$/design.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="56843566-8636-4275-941f-1f2fdb834d1e" name="Default" comment="" />
     <ignored path="test_CSS.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -170,7 +166,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test_GeoJSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../html_tutorial" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
